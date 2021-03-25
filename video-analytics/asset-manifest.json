@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agora-web-showcase/examples/video-analytics/static/css/main.f7ae6f82.chunk.css",
+    "main.js": "/agora-web-showcase/examples/video-analytics/static/js/main.c7612b72.chunk.js",
+    "main.js.map": "/agora-web-showcase/examples/video-analytics/static/js/main.c7612b72.chunk.js.map",
+    "runtime-main.js": "/agora-web-showcase/examples/video-analytics/static/js/runtime-main.13a369ee.js",
+    "runtime-main.js.map": "/agora-web-showcase/examples/video-analytics/static/js/runtime-main.13a369ee.js.map",
+    "static/js/2.c5875974.chunk.js": "/agora-web-showcase/examples/video-analytics/static/js/2.c5875974.chunk.js",
+    "static/js/2.c5875974.chunk.js.map": "/agora-web-showcase/examples/video-analytics/static/js/2.c5875974.chunk.js.map",
+    "index.html": "/agora-web-showcase/examples/video-analytics/index.html",
+    "precache-manifest.fae4c78c62714a040454d1a6418d6900.js": "/agora-web-showcase/examples/video-analytics/precache-manifest.fae4c78c62714a040454d1a6418d6900.js",
+    "service-worker.js": "/agora-web-showcase/examples/video-analytics/service-worker.js",
+    "static/css/main.f7ae6f82.chunk.css.map": "/agora-web-showcase/examples/video-analytics/static/css/main.f7ae6f82.chunk.css.map",
+    "static/js/2.c5875974.chunk.js.LICENSE": "/agora-web-showcase/examples/video-analytics/static/js/2.c5875974.chunk.js.LICENSE",
+    "static/media/App.scss": "/agora-web-showcase/examples/video-analytics/static/media/logo-open-live.1cccf552.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13a369ee.js",
+    "static/js/2.c5875974.chunk.js",
+    "static/css/main.f7ae6f82.chunk.css",
+    "static/js/main.c7612b72.chunk.js"
+  ]
+}
